@@ -1,0 +1,20 @@
+Question 1 What color is a banana when it's ripe?
+    Yellow
+    Red
+    Green
+Question 2 How many days are there in a week?
+    Seven
+    Five
+    Ten
+ Question 3 What animal says "meow"?
+    Cat
+    Dog
+    Cow
+ Question 4 What is the opposite of hot?
+    Cold
+    Warm
+    Cool
+ Question 5 Which planet is known as the "Red Planet"?
+   Mars
+   Venus
+   Jupiter
